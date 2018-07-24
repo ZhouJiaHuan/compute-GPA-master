@@ -1,8 +1,6 @@
 # compute-GPA-master
 compute GPA with MATLAB GUI, more details can be found at: https://zhoujiahuan.github.io/2018/07/23/matlab-gui-gpa/
 
-# 计算学生课程成绩绩点并排名
-
 copyright - Meringue
 
 date - 2017/9/6
